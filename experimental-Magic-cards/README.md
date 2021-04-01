@@ -30,7 +30,7 @@ Here are two examples of the cards I quickly designed as prototypes of business 
 
 ![Carte_Visite_Magic__Lilian_Besson__1er_avril_2021_-2.png](Carte_Visite_Magic__Lilian_Besson__1er_avril_2021_-2.png)
 
-![Carte_Visite_Magic__Lilian_Besson__1er_avril_2021_-3.png](Carte_Visite_Magic__Lilian_Besson__1er_avril_2021_-3.png)
+![Carte_Visite_Magic__Lilian_Besson__1er_avril_2021_-3.jpg](Carte_Visite_Magic__Lilian_Besson__1er_avril_2021_-3.jpg)
 
 ----
 
