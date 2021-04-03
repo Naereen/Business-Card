@@ -24,13 +24,11 @@ Also, it's not so ecological to order 100 when you will need only a few.
 
 ----
 
-## Two examples
+## My own business card as a Magic© card
 
-Here are two examples of the cards I quickly designed as prototypes of business card for [myself](https://GitHub.com/Naereen):
+Here is the design I liked the most, after about 25 different designs I tried as prototypes of business card for [myself](https://GitHub.com/Naereen):
 
-![Carte_Visite_Magic__Lilian_Besson__1er_avril_2021_-2.png](Carte_Visite_Magic__Lilian_Besson__1er_avril_2021_-2.png)
-
-![Carte_Visite_Magic__Lilian_Besson__1er_avril_2021_-3.jpg](Carte_Visite_Magic__Lilian_Besson__1er_avril_2021_-3.jpg)
+![Carte_Visite_Magic__Lilian_Besson__1er_avril_2021_-3.png](Carte_Visite_Magic__Lilian_Besson__1er_avril_2021_-3.png)
 
 ----
 
