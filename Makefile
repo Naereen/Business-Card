@@ -1,18 +1,8 @@
-all:	pdf png gif clean
+# Makefile to send this page to Zam
+SHELL=/usr/bin/env /bin/bash
 
-pdf:
-	-clear
-	xelatex -interaction=nonstopmode card
+all:	send
 
-png:
-	convert -background white -density 550 card.pdf -quality 100 -resize 700x400 card.png
-	file card.png
-	eog card.png
-
-gif:
-	convert -background white -density 550 card.pdf -quality 100 -resize 700x400 card.gif
-	file card.gif
-	eog card.gif
-
-clean:
-	rm -vf card.aux card.log
+send:	send_zamok
+send_zamok:
+	CP --exclude=.git ./ ${Szam}publis/Business-Card/
