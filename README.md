@@ -4,6 +4,10 @@ For April's fool in 2021, I got a fun but stupid idea: what if I used an origina
 
 Here is the design I liked the most, after about 25 different designs I tried as prototypes of business card for [myself](https://GitHub.com/Naereen):
 
+![Carte_Visite_Magic__Lilian_Besson__1er_avril_2021_-3.png](card-2021-english.png)
+
+And in French:
+
 ![Carte_Visite_Magic__Lilian_Besson__1er_avril_2021_-3.png](card-2021.png)
 
 ----
